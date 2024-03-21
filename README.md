@@ -1,0 +1,2 @@
+# Tarjetausuario-Core-
+Tarjetausuariosimple
